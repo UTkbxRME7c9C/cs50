@@ -1,5 +1,5 @@
 # cs50
 
-my solutions for cs50 2021
+my solutions for cs50x 2021
 
-  a
+  dont copy my solutions, follow academic honesty guidelines: https://cs50.harvard.edu/x/2021/honesty/
